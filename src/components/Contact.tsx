@@ -86,7 +86,7 @@ export default function Contact() {
                 </a>
 
                 <a
-                  href="mailto:enquire@summithvacr.com.au"
+                  href="mailto:enquire@summit-hvacr.com.au"
                   className="flex items-center gap-4 group"
                 >
                   <div className="w-12 h-12 rounded-xl bg-brand-blue/30 flex items-center justify-center shrink-0 group-hover:bg-brand-blue/50 transition-colors">
@@ -95,7 +95,7 @@ export default function Contact() {
                   <div>
                     <div className="font-body text-white/40 text-xs uppercase tracking-wider mb-0.5">Email</div>
                     <div className="font-body text-white font-medium group-hover:text-brand-blue-light transition-colors break-all">
-                      enquire@summithvacr.com.au
+                      enquire@summit-hvacr.com.au
                     </div>
                   </div>
                 </a>
