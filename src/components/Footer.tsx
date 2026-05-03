@@ -62,11 +62,11 @@ export default function Footer() {
                 0481 156 643
               </a>
               <a
-                href="mailto:enquire@summithvacr.com.au"
+                href="mailto:enquire@summit-hvacr.com.au"
                 className="flex items-center gap-2 text-white/60 hover:text-white text-sm transition-colors md:justify-end break-all"
               >
                 <Mail size={13} className="text-brand-blue-light" />
-                enquire@summithvacr.com.au
+                enquire@summit-hvacr.com.au
               </a>
             </div>
           </div>
